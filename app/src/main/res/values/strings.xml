@@ -1,0 +1,4 @@
+<resources>
+    <string name="Traffic_Light_Application">TrafficLightApp</string>
+    <string name="Button">Stop!</string>
+</resources>
